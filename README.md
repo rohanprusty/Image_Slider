@@ -1,53 +1,66 @@
-Live Demo - https://image-slider-omega-snowy.vercel.app/
+# 🎞️ Anime 3D Image Slider – Pure CSS
 
-# 🌠 CSS-Only Image Slider
+A visually engaging **3D Anime Image Slider** built entirely with **HTML & CSS**, showcasing smooth animations and depth effects — **no JavaScript used**. This project highlights creative front-end techniques using only modern CSS capabilities.
 
-A smooth, responsive **image slider** built entirely using **HTML and CSS** — no JavaScript involved! This project demonstrates the power of **CSS animations, transitions, and radio buttons** to create a seamless slideshow experience.
+---
 
-## 🚀 Features
+## 🎯 Features
 
-* ✅ Pure CSS implementation – zero JavaScript
-* ✅ Smooth sliding transitions
-* ✅ Fully responsive and mobile-friendly design
-* ✅ Supports auto/manual slide control
-* ✅ Clean and minimal UI
+* 🎠 **3D Carousel Animation**
+  Rotating image slider effect using CSS `transform` and `keyframes`.
 
-## 💡 Technologies Used
+* 🖼️ **Anime-Themed Design**
+  Displays a curated set of anime images in a looping slider.
 
-* HTML5
-* CSS3 (Flexbox, Animations, Keyframes, Pseudo-selectors)
+* 🧱 **Pure CSS Implementation**
+  No JavaScript or frameworks — just clean and modular HTML/CSS.
+
+* 🌐 **Responsive Layout**
+  Designed to work across screen sizes (mobile/tablet/desktop).
+
+---
+
+## 🛠️ Tech Stack
+
+* **Core:** HTML5 + CSS3
+* **Animation:** CSS `@keyframes`, `transform`, `transition`
+* **Design Tools:** VS Code / Any Text Editor
+* **Deployment:** GitHub Pages / Vercel *(Optional)*
+
+---
 
 ## 📸 Preview
 
-![Slider Demo](demo.gif) <!-- Replace with actual demo image or GIF -->
+Live Demo - https://image-slider-omega-snowy.vercel.app/
+
+> *Feel the magic of animation with a modern CSS-only carousel.*
+
+---
 
 ## 📁 Folder Structure
 
 ```
+anime-image-slider/
 ├── index.html
-├── style.css
-├── images/
-│   ├── img1.jpg
-│   ├── img2.jpg
-│   └── ...
+└── style.css
 ```
 
-## 🔧 How to Use
+---
 
-1. Clone the repository
+## 🧠 Learning Highlights
 
-   ```bash
-   git clone https://github.com/your-username/css-image-slider.git
-   ```
+* Explored advanced CSS animations and transitions
+* Practiced clean semantic HTML structuring
+* Built aesthetic UI without relying on JS or libraries
+* Understood the 3D perspective using CSS `transform-style: preserve-3d`
 
-2. Open `index.html` in your browser
-   No build or setup required.
+---
 
-## 🎯 Use Case
+## 💡 Use Case Ideas
 
-Great for landing pages, portfolios, or lightweight websites where you want to avoid JavaScript but still showcase a visually appealing image carousel.
+* Front-end portfolios
+* Creative landing pages
+* Anime-themed static websites
+* CSS animation showcases
 
-## 📌 Learning Outcome
-
-This project showcases how **CSS-only logic** can replicate behavior often associated with JavaScript, promoting creativity in front-end design and UI control.
-
+---
