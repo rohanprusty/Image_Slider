@@ -51,6 +51,3 @@ Great for landing pages, portfolios, or lightweight websites where you want to a
 
 This project showcases how **CSS-only logic** can replicate behavior often associated with JavaScript, promoting creativity in front-end design and UI control.
 
----
-
-Feel free to replace `"your-username"` and the image/GIF link with your actual GitHub handle and demo preview. Want a short LinkedIn description too?
